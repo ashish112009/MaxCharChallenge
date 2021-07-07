@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaxCharOccurrence</string>
+    <string name="enter_a_text_here">Enter a text here</string>
+    <string name="evaluate">Evaluate</string>
+</resources>
